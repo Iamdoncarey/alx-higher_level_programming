@@ -8,6 +8,10 @@ if __name == __"main":
 	b = 5
 	
 	print("{} + {} = {}".format(a, b, add(a, b)))
-    	print("{} - {} = {}".format(a, b, sub(a, b)))
-    	print("{} * {} = {}".format(a, b, mul(a, b)))
-    	print("{} / {} = {}".format(a, b, div(a, b)))
+	print("{} - {} = {}".format(a, b, sub(a, b)))
+	print("{} * {} = {}".format(a, b, mul(a, b)))
+	print("{} / {} = {}".format(a, b, div(a, b)))
+	print(res_add)
+	print(res_sub)
+	print(res_mul)
+	print(res_div)
